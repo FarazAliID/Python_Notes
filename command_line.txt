@@ -1,0 +1,11 @@
+pwd = in which directory 
+cd = to open directory which you want
+cd .. = back your directory
+ls = show all files in the folder
+mkdir = to create a folder
+touch = to create a file in your folder
+clear = to clear terminal screen
+rm = to remove a file in directory
+rm -rf = to remove a folder
+mv = to folder move on another directory or folder
+cp = copy file to folder or directory
